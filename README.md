@@ -49,6 +49,6 @@ I’m interested in solving challenging coding problems and learning new technol
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-sajjadzakirr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman3054&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-sajjadzakirr&theme=radical" alt="GitHub Streak" />
 </div>
