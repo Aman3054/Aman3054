@@ -45,3 +45,10 @@ I’m interested in solving challenging coding problems and learning new technol
 <img  alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=whit" />
 <p/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-sajjadzakirr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-sajjadzakirr&theme=radical" alt="GitHub Streak" />
+</div>
