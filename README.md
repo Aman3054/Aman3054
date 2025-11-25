@@ -2,7 +2,7 @@
 
 #### 📫 Reach me: 
 - [Email](mailto:er.amangoswami@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/aman-goswami-62048a250](https://www.linkedin.com/in/aman-goswami20/))
+- [LinkedIn](https://www.linkedin.com/in/aman-goswami20/)
 - [Personal Webiste](https://chronicle-neon.vercel.app/)
 
 <div align="center">
