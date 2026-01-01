@@ -9,7 +9,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎Aman Goswami | 💻 Full Stack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-I'm a third year student at Noida Institute of Engineering and Technology pursuing B TECH in Computer Science Engeenering.
+I'm a final year student at Noida Institute of Engineering and Technology pursuing B TECH in Computer Science Engeenering.
 I’m interested in solving challenging coding problems and learning new technologies.
 
 
